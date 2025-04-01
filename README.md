@@ -28,4 +28,5 @@ Download the file `Release.zip`, extract it and run the `4.exe` file (the .exe f
 - The Got Position give integer position on the board (first one for pick the unit, second one for where it goes)
 
 The `stride` and `UnitStride` are only for developers
+
 <img src="README imgs/terminal.png" alt="Logo" width="400">
