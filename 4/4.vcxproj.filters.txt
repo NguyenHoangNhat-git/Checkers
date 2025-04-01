@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shader">
+      <UniqueIdentifier>{f2261b19-2e69-4460-931c-2d16cc3c3582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{c098644c-cfa7-424c-8ace-e9ebafa99259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Texture">
+      <UniqueIdentifier>{4a466ed1-f20d-42b7-9ea1-ec10a2986dbc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Units.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HandlePosition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Libraries\include\GLEW\doc\advanced.html" />
+    <None Include="Libraries\include\GLEW\doc\basic.html" />
+    <None Include="Libraries\include\GLEW\doc\build.html" />
+    <None Include="Libraries\include\GLEW\doc\credits.html" />
+    <None Include="Libraries\include\GLEW\doc\glew.html" />
+    <None Include="Libraries\include\GLEW\doc\glxew.html" />
+    <None Include="Libraries\include\GLEW\doc\index.html" />
+    <None Include="Libraries\include\GLEW\doc\install.html" />
+    <None Include="Libraries\include\GLEW\doc\log.html" />
+    <None Include="Libraries\include\GLEW\doc\wglew.html" />
+    <None Include="default_unit.vert">
+      <Filter>Resource Files\Shader</Filter>
+    </None>
+    <None Include="default_unit.frag">
+      <Filter>Resource Files\Shader</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shaderClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HandlePosition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Units.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="layoutall1.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+    <Image Include="small_everthing.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+    <Image Include="everything.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+    <Image Include="ori_everything.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+    <Image Include="huge_everything.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+    <Image Include="everything1.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+    <Image Include="everything2.png">
+      <Filter>Resource Files\Texture</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

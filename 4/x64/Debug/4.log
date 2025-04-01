@@ -1,0 +1,4 @@
+﻿  Units.cpp
+D:\Code\C++\Projects\4. Checkers\4\Units.cpp(167,14): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\Code\C++\Projects\4. Checkers\4\Units.cpp(187,15): warning C4804: '>': unsafe use of type 'bool' in operation
+  4.vcxproj -> D:\Code\C++\Projects\4. Checkers\4\x64\Debug\4.exe

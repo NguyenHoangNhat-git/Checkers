@@ -1,0 +1,3 @@
+D:\Code\C++\P\4. Chess\4\x64\Debug\4.exe
+D:\Code\C++\P\4. Checkers\4\x64\Debug\4.exe
+D:\Code\C++\Projects\4. Checkers\4\x64\Debug\4.exe

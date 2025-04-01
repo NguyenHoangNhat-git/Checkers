@@ -1,0 +1,16 @@
+﻿  glad.c
+  HandlePosition.cpp
+D:\4. Checkers\4\HandlePosition.cpp(43,10): warning C4551: function call missing argument list
+D:\4. Checkers\4\HandlePosition.cpp(47,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\4. Checkers\4\HandlePosition.cpp(47,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  shaderClass.cpp
+  stb.cpp
+  Units.cpp
+D:\4. Checkers\4\Units.cpp(167,14): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\4. Checkers\4\Units.cpp(187,15): warning C4804: '>': unsafe use of type 'bool' in operation
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 947 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  4.vcxproj -> D:\4. Checkers\4\x64\Release\4.exe
